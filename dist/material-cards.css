@@ -323,6 +323,9 @@
 .material-card.Red.mc-active .mc-btn-action {
     border-color: #ffebee;
 }
+.material-card.Red .img-container {
+  background: pink;
+}
 .material-card.Blue-Grey h2 {
     background-color: #607d8b;
 }
